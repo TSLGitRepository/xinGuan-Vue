@@ -2,6 +2,7 @@
   <div class="home">
     <img alt="Vue lo222go" src="../assets/logo.png">
     <HelloWorld msg="We1212lc22ome to Your Vue.js App"/>
+    <h2>修改1</h2>
   </div>
 </template>
 
